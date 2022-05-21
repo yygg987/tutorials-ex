@@ -1,5 +1,5 @@
 # PyTorch Tutorials
-
+Today is Saturday
 
 All the tutorials are now presented as sphinx style documentation at:
 
@@ -35,5 +35,3 @@ In case you prefer to write your tutorial in jupyter, you can use [this script](
 * You can find information about contributing to PyTorch documentation in the 
 PyTorch Repo [README.md](https://github.com/pytorch/pytorch/blob/master/README.md) file. 
 * Additional information can be found in [PyTorch CONTRIBUTING.md](https://github.com/pytorch/pytorch/blob/master/CONTRIBUTING.md).
-
-last update 5/21/2022 - by yygg988
