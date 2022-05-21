@@ -1,5 +1,5 @@
 # PyTorch Tutorials
-Today is Saturday
+Today is Saturday. but I'm at University
 
 All the tutorials are now presented as sphinx style documentation at:
 
